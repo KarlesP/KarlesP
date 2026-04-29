@@ -5,7 +5,7 @@ Push to the root of github.com/KarlesP/KarlesP as README.md
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00D9FF,100:7C3AED&text=Panagiotis Karles&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Cloud%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Product%20Development&descAlignY=58&descSize=18" alt="Profile header" />
+<img width="100%" src="header.svg" alt="Profile header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+%E2%80%A2+Machine+Learning+%E2%80%A2+Product+Development;Optimising+end-to-end+product+development;Building+practical+systems+that+ship" alt="Typing SVG" />
