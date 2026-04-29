@@ -7,8 +7,6 @@ Push to the root of github.com/KarlesP/KarlesP as README.md
 
 <img width="100%" src="header.svg" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=0&pause=1000&color=2DBA4E&center=true&vCenter=true&width=300&lines=%F0%9F%9F%A2+Open+to+opportunities" alt="Hireable" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Senior+Product+Engineer;Cloud+%E2%80%A2+Machine+Learning+%E2%80%A2+Product+Development;10%2B+years+building+systems+that+ship" alt="Typing SVG" />
 </a>
@@ -31,14 +29,13 @@ Push to the root of github.com/KarlesP/KarlesP as README.md
 
 I'm **Panagiotis Karles**, a **Senior Product Engineer** with **10+ years of experience** working at the intersection of **cloud services**, **machine learning**, and **product development**.
 
-I build systems that are practical, reliable, and easy to maintain — closing the gap between infrastructure, intelligence, and working product. I'm currently **open to new opportunities**.
+I build systems that are practical, reliable, and easy to maintain — closing the gap between infrastructure, intelligence, and working product.
 
 ```txt
 > profile --summary
 
 Title        : Senior Product Engineer
 Experience   : 10+ years
-Status       : Open to opportunities
 Focus        : End-to-end product development with cloud and ML at the core
 Learning     : Applied AI, LLM tooling, and developer experience patterns
 Strengths    : Automation, product velocity, system reliability
